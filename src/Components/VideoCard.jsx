@@ -1,7 +1,6 @@
 import { Card, CardMedia, CardContent, Typography } from "@mui/material";
 import { Link } from "react-router-dom";
 import { CheckCircle } from "@mui/icons-material";
-
 import {
   demoThumbnailUrl,
   demoChannelTitle,
